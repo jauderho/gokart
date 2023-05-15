@@ -10,7 +10,7 @@ require (
 	github.com/owenrumney/go-sarif v1.1.1
 	github.com/segmentio/fasthash v1.0.3
 	github.com/spf13/cobra v1.7.0
-	golang.org/x/tools v0.8.0
+	golang.org/x/tools v0.9.1
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -37,8 +37,8 @@ require (
 	github.com/zclconf/go-cty v1.13.1 // indirect
 	golang.org/x/crypto v0.8.0 // indirect
 	golang.org/x/mod v0.10.0 // indirect
-	golang.org/x/net v0.9.0 // indirect
-	golang.org/x/sys v0.7.0 // indirect
+	golang.org/x/net v0.10.0 // indirect
+	golang.org/x/sys v0.8.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
