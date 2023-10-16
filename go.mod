@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/fatih/color v1.15.0
 	github.com/go-git/go-git/v5 v5.8.0
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.6.0
 	github.com/lithammer/dedent v1.1.0
 	github.com/owenrumney/go-sarif v1.1.1
 	github.com/segmentio/fasthash v1.0.3
@@ -15,7 +15,6 @@ require (
 )
 
 require (
-	dario.cat/mergo v1.0.0 // indirect
 	github.com/Microsoft/go-winio v0.6.1 // indirect
 	github.com/ProtonMail/go-crypto v0.0.0-20230717121422-5aa5874ade95 // indirect
 	github.com/acomagu/bufpipe v1.0.4 // indirect
